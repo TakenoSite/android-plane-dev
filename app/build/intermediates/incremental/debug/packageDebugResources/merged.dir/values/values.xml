@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <string name="app_name">Hello World</string>
+    <style name="Theme.NeonClock" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">#00C853</item>
+        <item name="colorPrimaryVariant">#009624</item>
+        <item name="colorOnPrimary">#000000</item>
+        <item name="colorSecondary">#39FF14</item>
+        <item name="android:statusBarColor" ns1:targetApi="l">#000000</item>
+    </style>
+</resources>

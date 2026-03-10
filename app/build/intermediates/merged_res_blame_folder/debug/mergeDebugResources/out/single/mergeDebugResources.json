@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.example.neonclock.app-debug-31:/layout_activity_main.xml.flat",
+        "source": "com.example.neonclock.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.neonclock.app-debug-31:/layout_widget_clock.xml.flat",
+        "source": "com.example.neonclock.app-main-33:/layout/widget_clock.xml"
+    },
+    {
+        "merged": "com.example.neonclock.app-debug-31:/xml_clock_widget_info.xml.flat",
+        "source": "com.example.neonclock.app-main-33:/xml/clock_widget_info.xml"
+    }
+]
